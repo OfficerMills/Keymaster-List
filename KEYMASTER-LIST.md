@@ -1,5 +1,9 @@
 # Officer Mills | FiveM Keymaster Resources
 
+> **Key:**
+> ✔  = Transferable/Available
+> ❌ = Non Transferable/Not For Sale
+
 | Transferable | Creator | Resource Name | License Date | Last Updated |
 |:---:|---|---|---|---|
 | ✔ | OfficerMills | FiveO MySQL Backup | 2025-07-11 | 2025-07-11 |
