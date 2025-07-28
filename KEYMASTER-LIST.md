@@ -1,8 +1,8 @@
 # Officer Mills | FiveM Keymaster Resources
 
 > **Key:**
-> ✔  = Transferable/Available
-> ❌ = Non Transferable/Not For Sale
+> ✔  = Transferable/Available 
+❌ = Non Transferable/Not For Sale
 
 | Transferable | Creator | Resource Name | License Date | Last Updated |
 |:---:|---|---|---|---|
