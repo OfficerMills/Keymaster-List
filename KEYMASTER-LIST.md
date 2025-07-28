@@ -2,8 +2,8 @@
 
 | Transferable | Creator | Resource Name | License Date | Last Updated |
 |:---:|---|---|---|---|
-- | [x] | OfficerMills | FiveO MySQL Backup | 2025-07-11 | 2025-07-11 |
-| [x] | JRaxion | jraxion_vehiclepullout | 2025-06-25 | 2025-06-25 |
+| ✔ | OfficerMills | FiveO MySQL Backup | 2025-07-11 | 2025-07-11 |
+| ❌ | JRaxion | jraxion_vehiclepullout | 2025-06-25 | 2025-06-25 |
 | ☐ | OfficerMills | OM-AutoBackupDB | 2025-05-17 | 2025-05-17 |
 | ☐ | mobzey | mobz-horses | 2025-05-16 | 2025-05-01 |
 | ☐ | mobzey | mobz-waterdamage | 2025-05-16 | 2025-05-13 |
