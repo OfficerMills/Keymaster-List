@@ -132,27 +132,12 @@
 | ❌ | Codesign | cd_vehiclecontrol |  | $8.00 | 2024-01-27 |
 | ✔ | jgscripts | jg-dealerships | https://jgscripts.com/scripts/dealerships | $45.00 | 2024-01-27 |
 | ❌ | amazonium | 919ADMIN |  | $30.00 | 2023-12-23 |
-| ✔ | wasabirobby | wasabi_ambulance | https://wasabi-scripts.tebex.io/ | $40.00 | 2023-12-21 |
-| ✔ | wasabirobby | wasabi_police | https://wasabi-scripts.tebex.io/ | $45.00 | 2023-12-21 |
-| ✔ | wasabirobby | wasabi_bridge | https://wasabi-scripts.tebex.io/ | $20.00 | 2023-12-21 |
 | ❌ | QuantumRoleplayOwner | q-clamping |  | $10.00 | 2023-12-12 |
 | ❌ | GrottiDevelopment | Pilotjob |  | $20.00 | 2023-11-29 |
-| ❌ | JPResources | JPR Phone System |  | $30.00 | 2023-11-24 |
-| ❌ | JPResources | jpr-crewsystem |  | $25.00 | 2023-11-24 |
-| ❌ | JPResources | jpr-territories |  | $25.00 | 2023-11-24 |
 | ✔*(ESX)* | Aljunier | Aljunier MDT (ESX) | https://store.aljunier-development.com/package/4774628 | $30.00 | 2023-11-18 |
-| ✔ | jaksam1074 | [QB-Core] Doors Creator | https://fivem.jaksam-scripts.com/package/5369986 | $15.00 | 2023-11-14 |
+| ✔ | jaksam1074 | [QB-Core] Doors Creator | https://fivem.jaksam-scripts.com/package/5369986 | $36.00 | 2023-11-14 |
 | ✔ | jgscripts | jg-advancedgarages | https://jgscripts.com/scripts/advanced-garages | $35.00 | 2023-11-11 |
-| ✔ | CaseIRL | [BOII-HUNTING] | https://boii.tebex.io/ | $22.50 | 2023-11-04 |
-| ❌ | PlayingInTraffic | [fivem_loadscreen_beta] |  | $7.50 | 2023-11-04 |
 | ✔ | jgscripts | jg-scoreboard | https://jgscripts.com/ | $12.50 | 2023-11-03 |
-| ❌ | K4MB1 | K4MB1-StarterShells |  | $20.00 | 2023-10-24 |
-| ❌ | PlayingInTraffic | [fivem_ui_elements] |  | $10.00 | 2023-10-19 |
-| ❌ | PlayingInTraffic | [fivem_job_center] |  | $15.00 | 2023-10-15 |
-| ❌ | proportions | qb-policejob-v2 |  | $25.00 | 2023-10-12 |
-| ❌ | CaseIRL | [BOII-MONEYLAUNDERED] |  | $20.00 | 2023-07-26 |
-| ❌ | CaseIRL | [BOII-LOADINGSCREEN-ALPHA] |  | $10.00 | 2023-03-18 |
-| ❌ | Jimathy666 | jim-mechanic |  | $35.00 | 2022-08-14 |
 
 ---
 
