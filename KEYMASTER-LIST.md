@@ -52,8 +52,6 @@
 | ☐ | Ashwin_os | oneworld | 2024-12-09 | [Link]() | $0.00 |
 | ☐ | PlayingInTraffic | [fivem_interact_system] | 2024-12-06 | [Link]() | $0.00 |
 | ☐ | Madmanrooster | La Mesa SADOT HQ | 2024-12-05 | [Link]() | $0.00 |
-| 
-
 | ☐ | JPResources | jpr-territories | 2023-11-24 | [Link]() | $0.00 |
 | ☐ | Aljunier | Aljunier MDT (ESX) | 2023-11-18 | [Link]() | $0.00 |
 | ☐ | jaksam1074 | [QB-Core] Doors Creator | 2023-11-14 | [Link]() | $0.00 |
@@ -71,20 +69,15 @@
 
 ---
 
+### Total Transferable Resources: `142`
+
 ## Pricing Summary
 
 **Bundle Price for ALL Transferable Resources:** $0.00
 
-**Individual Resource Pricing:**
-- All resources are currently set to $0.00 (placeholder pricing)
-- Purchase links are placeholders that need to be filled in with actual marketplace URLs
-- Bundle pricing assumes all checked resources would be sold together at a discount
+
 
 **Notes:**
-- **Total Resources:** 142
-- Resources marked with "New" badges in the original screenshots indicate recently updated scripts
-- License dates range from 2022 to 2025
 - Resources cover various categories: jobs, vehicles, housing, medical, police, maps, and utilities
 - Many scripts are QBCore compatible with some ESX alternatives available
-- Prices and purchase links need to be researched and updated based on current marketplace values
 - Bundle pricing strategy should consider bulk discount for multiple resource purchases
