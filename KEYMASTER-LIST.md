@@ -81,8 +81,8 @@
 | ✔ | Urantix | cT-InitialVeh |  | $10.00 | 2024-10-27 |
 | ✔ | ERROR_SCRIPTS | OsTeam-LoadingScreen |  | $7.50 | 2024-10-27 |
 | ✔ | MadsL | Sit Anywhere |  | $7.50 | 2024-10-25 |
-| ✔ | Gabz | cfx-gabz-bisonstx |  | $40.00 | 2024-10-24 |
-| ✔ | Gabz | cfx-gabz-esperta |  | $40.00 | 2024-10-24 |
+| ❌ | Gabz | cfx-gabz-bisonstx |  | $40.00 | 2024-10-24 |
+| ❌ | Gabz | cfx-gabz-esperta |  | $40.00 | 2024-10-24 |
 | ✔ | MrWalk | Drive-thru |  | $10.00 | 2024-10-22 |
 | ✔ | cookinga | is-drivethru |  | $12.50 | 2024-10-22 |
 | ✔ | AV_Scripts | av_laptop_v3 |  | $30.00 | 2024-10-22 |
