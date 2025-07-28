@@ -7,21 +7,18 @@
 | Available | Creator | Resource Name | Creator Link | Price | License Date |
 |:---:|---|---|---|---|---|
 | ✔ | OfficerMills | FiveO MySQL Backup | https://fiveodevelopment.tebex.io/ | $5.00 | 2025-07-11 |
-| ✔ | JRaxion | jraxion_vehiclepullout | https://jraxion.tebex.io/package/5587715 | $7.50 | 2025-06-25 |
-| ✔ | OfficerMills | OM-AutoBackupDB | https://fiveodevelopment.tebex.io/ | $5.00 | 2025-05-17 |
-| ❌ | mobzey | mobz-horses |  | $12.50 | 2025-05-16 |
-| ❌ | mobzey | mobz-waterdamage |  | $7.50 | 2025-05-16 |
-| ❌ | mobzey | mobz-npcrecruitments |  | $10.00 | 2025-05-16 |
-| ❌ | mobzey | mez-npcevent |  | $10.00 | 2025-05-16 |
-| ❌ | mobzey | mobz-styles |  | $7.50 | 2025-05-16 |
-| ❌ | mobzey | mobz-sharks |  | $10.00 | 2025-05-16 |
-| ❌ | vertexstudios | vx_loki |  | $15.00 | 2025-05-16 |
+| ✔ | JRaxion | jraxion_vehiclepullout | https://jraxion.tebex.io/package/5587715 | $5.00 | 2025-06-25 |
+| ✔ | OfficerMills | OM-AutoBackupDB | https://fiveodevelopment.tebex.io/ | $15.00 | 2025-05-17 |
+| ❌ | mobzey | mobz-horses |  | $2.50 | 2025-05-16 |
+| ❌ | mobzey | mobz-waterdamage |  | $2.50 | 2025-05-16 |
+| ❌ | mobzey | mobz-npcrecruitments |  | $2.50 | 2025-05-16 |
+| ❌ | mobzey | mez-npcevent |  | $2.50 | 2025-05-16 |
+| ❌ | mobzey | mobz-styles |  | $2.50 | 2025-05-16 |
+| ❌ | mobzey | mobz-sharks |  | $2.50 | 2025-05-16 |
 | ✔ | LixeiroCharmos1104 | [QBCore] Fishing Simulator | https://store.lixeirocharmoso.com/package/6401585 | $12.50 | 2025-05-15 |
-| ❌ | SonoranSoftware | Sonoran Store - Smart Signs (Sonoran CAD Edition) |  | $17.50 | 2025-05-04 |
-| ❌ | SonoranSoftware | Sonoran Store - Radio Display |  | $12.50 | 2025-05-04 |
-| ✔ | FMFranco | cfx-fm-medical-center-machines | https://www.fm-shop.it/products | $15.00 | 2025-05-01 |
-| ✔ | FMFranco | cfx-fm-mapdata | https://www.fm-shop.it/products | $10.00 | 2025-05-01 |
-| ✔ | FMFranco | cfx-fm-medical-center | https://www.fm-shop.it/products | $20.00 | 2025-05-01 |
+| ✔ | FMFranco | cfx-fm-medical-center-machines | https://www.fm-shop.it/products | $Incl | 2025-05-01 |
+| ✔ | FMFranco | cfx-fm-mapdata | https://www.fm-shop.it/products | $Incl | 2025-05-01 |
+| ✔ | FMFranco | cfx-fm-medical-center | https://www.fm-shop.it/products | $15.00 | 2025-05-01 |
 | ✔ | DCCustoms | Prop Attach Tool V2 | https://www.dccustomz.com/product/6769857 | $15.00 | 2025-04-30 |
 | ✔ | TuKeh | tk_drugs | https://tkscripts.com/product/drugs | $22.50 | 2025-04-28 |
 | ❌ | wasd_dev | wasd-atmrobbery-escrow |  | $17.50 | 2025-04-26 |
@@ -37,26 +34,20 @@
 | ❌ | Sha4ow | Sha4ow_Boardingpass |  | $12.50 | 2025-02-13 |
 | ✔ | CertifiedStag | cs_ejector | [Discord](https://discord.gg/keZAmXEduq) | $10.00 | 2025-01-22 |
 | ❌ | CyCoSnag | snag_weapon_metas |  | $7.50 | 2025-01-20 |
-| ✔ | JRaxion | cb-pullot | https://jraxion.tebex.io/ | $7.50 | 2025-01-20 |
-| ✔ | ParadiseScripts | Stash Creator | https://paradise-scripts.tebex.io/ | $15.00 | 2025-01-01 |
-| ✔ | ParadiseScripts | Aim Logs | https://paradise-scripts.tebex.io/ | $10.00 | 2025-01-01 |
 | ✔ | NeveraDevelopment | Loading Screen | https://neveradev.tebex.io/package/6391034 | $0.00 | 2024-12-24 |
 | ❌ | Tamir112modification | FiveM Pilot & GC EUP pack + menu 2.0 |  | $20.00 | 2024-12-23 |
 | ❌ | Tidemo | tfsnowstorm |  | $10.00 | 2024-12-22 |
 | ✔ | sModsk | smodsk_trainMetro_stream | https://smodsk.tebex.io/category/trains-and-metro | $15.00 | 2024-12-22 |
 | ✔ | sModsk | smodsk_train | https://smodsk.tebex.io/category/trains-and-metro | $17.50 | 2024-12-22 |
-| ❌ | McQueen007 | mcq_hny |  | $5.00 | 2024-12-22 |
-| ✔ | NProblemResources | NProblem Driving School | https://nproblem-resources.tebex.io/ | $20.00 | 2024-12-20 |
+| ✔ | NProblemResources | NProblem Driving School | https://nproblem-resources.tebex.io/ | $8.00 | 2024-12-20 |
 | ✔ | Samurai_Development | SDC_MedCalls | https://samurai-dev-co.tebex.io/package/6459668 | $0.00 | 2024-12-15 |
-| ✔ | wasabirobby | wasabi_crutch | https://wasabiscripts.com/product/5453692 | $12.50 | 2024-12-13 |
-| ✔ | supergashbell | Fiv3Devs - Cockpit | https://fiv3devs.tebex.io/ | $25.00 | 2024-12-12 |
-| ❌ | Ashwin_os | oneworld |  | $30.00 | 2024-12-09 |
-| ❌ | PlayingInTraffic | [fivem_interact_system] |  | $10.00 | 2024-12-06 |
-| ✔ | Madmanrooster | La Mesa SADOT HQ | https://mads-designs-shop.tebex.io/category/interiors | $35.00 | 2024-12-05 |
-| ✔ | K4MB1 | k4mb1-shaftcave | https://k4mb1maps.com/ | $20.00 | 2024-12-01 |
+| ✔ | wasabirobby | wasabi_crutch | https://wasabiscripts.com/product/5453692 | $10.00 | 2024-12-13 |
+| ✔ | supergashbell | Fiv3Devs - Cockpit | https://fiv3devs.tebex.io/ | $0.00 | 2024-12-12 |
+| ✔ | Madmanrooster | La Mesa SADOT HQ | https://forum.cfx.re/t/la-mesa-sadot-hq/5127527 | $7.50 | 2024-12-05 |
+| ✔ | K4MB1 | k4mb1-shaftcave | https://k4mb1maps.com/product/6136423 | $12.00 | 2024-12-01 |
 | ✔ | OsmFX | osm-flaregun-christmas | https://osmfx.tebex.io/package/5841576 | $7.50 | 2024-11-29 |
-| ✔ | OfficerMills | OM-VehicleRentals | https://fiveodevelopment.tebex.io/ | $15.00 | 2024-11-28 |
-| ✔ | Rejox | RxReports | https://rxscripts.tebex.io/ | $17.50 | 2024-11-28 |
+| ✔ | OfficerMills | OM-VehicleRentals | https://fiveodevelopment.tebex.io/ | $5.00 | 2024-11-28 |
+| ✔ | Rejox | RxReports | https://rxscripts.tebex.io/ | $0.00 | 2024-11-28 |
 | ✔ | NTeamDevelopment | NTeam Development Halloween Decoration | https://nteamdev.tebex.io/ | $15.00 | 2024-11-28 |
 | ✔ | NTeamDevelopment | NTeam Development Borders [ESX/QB] | https://nteamdev.tebex.io/ | $12.50 | 2024-11-28 |
 | ✔ | NTeamDevelopment | NTeam Development Police | https://nteamdev.tebex.io/ | $25.00 | 2024-11-28 |
@@ -117,20 +108,18 @@
 | ✔ | LondonStudios | Bike Hire | https://store.londonstudios.net/package/bike-hire | $15.00 | 2024-03-21 |
 | ✔ | LondonStudios | Smart Defib | https://store.londonstudios.net/package/smart-defib | $17.50 | 2024-03-21 |
 | ❌ | ViererbandeHH1 | Dispatch_Center_V3.2 |  | $25.00 | 2024-03-21 |
-| ✔ | quasarstore | Housing [props] | https://quasar-store.tebex.io/ | $25.00 | 2024-03-20 |
-| ✔ | quasarstore | Housing [main] | https://www.quasar-store.com/scripts/housing | $65.00 | 2024-03-20 |
+| ✔ | quasarstore | Housing [props] | https://quasar-store.tebex.io/ | $Incl | 2024-03-20 |
+| ✔ | quasarstore | Housing [main] | https://www.quasar-store.com/scripts/housing | $40.00 | 2024-03-20 |
 | ✔ | JODKR | dkr_new_mrpd_qb | https://dkr-shop.tebex.io/category/mlo-new-mrpd | $30.00 | 2024-03-18 |
 | ✔ | DeivisMac2 | Core Crafting QB | [Tebex](https://www.c8re.store/package/4574631) | $17.50 | 2025-04-23 |
 | ✔*(ESX)* | DeivisMac2 | Core Crafting ESX | [Tebex](https://www.c8re.store/package/4422629) | $17.50 | 2024-03-14 |
 | ✔ | an-services | AN Badge System | https://a-n.tebex.io/package/5336411 | $12.50 | 2024-03-14 |
-| ✔ | rcore | rcore_spray | https://store.rcore.cz/package/4519966 | $30.00 | 2024-03-14 |
+| ✔ | rcore | rcore_spray | https://store.rcore.cz/package/4519966 | $16.00 | 2024-03-14 |
 | ❌ | grimzy_mapping | Grove_Compound_V2 |  | $35.00 | 2024-03-13 |
 | ✔ | GreenBeerg_21 | [MLO] SAHP Chumash Standalone | https://greencome-mapping.tebex.io/package/6143648 | $30.00 | 2024-03-12 |
-| ✔ | CodeStudio | Modern ID Card | https://codestudio.tebex.io/package/5960098 | $12.50 | 2024-03-12 |
-| ❌ | rcore | rcore_gangs |  | $50.00 | 2024-03-12 |
+| ✔ | CodeStudio | Modern ID Card | https://codestudio.tebex.io/package/5960098 | $10.00 | 2024-03-12 |
+| ❌ | rcore | rcore_gangs |  | $22.00 | 2024-03-12 |
 | ❌ | quasarstore | Housing |  | $50.00 | 2024-03-11 |
-| ❌ | NTeamDevelopment | NTeam Development Map Data |  | $15.00 | 2024-03-11 |
-| ❌ | NTeamDevelopment | NTeam Development XMAS Decoration |  | $15.00 | 2024-03-11 |
 | ❌ | BigoZ | BigoZ_WeedShop |  | $20.00 | 2024-03-09 |
 | ✔ | TGIANN | tgiann-realistic-car-crash | https://tgiann.com/en/package/5781572 | $15.00 | 2024-03-09 |
 | ❌ | okokokok | okokBilling [QBCore] |  | $20.00 | 2024-03-09 |
@@ -140,7 +129,7 @@
 | ✔ | CaseIRL | [BOII-METH] | https://boii.tebex.io/package/4802537 | $22.50 | 2024-03-04 |
 | ✔ | K4MB1 | k4mb1-caveprops | https://k4mb1maps.com/product/6136423 | $15.00 | 2024-02-18 |
 | ❌ | Zerio | Zerio-Radio QB-Core |  | $17.50 | 2024-02-10 |
-| ❌ | Codesign | cd_vehiclecontrol |  | $20.00 | 2024-01-27 |
+| ❌ | Codesign | cd_vehiclecontrol |  | $8.00 | 2024-01-27 |
 | ✔ | jgscripts | jg-dealerships | https://jgscripts.com/scripts/dealerships | $45.00 | 2024-01-27 |
 | ❌ | amazonium | 919ADMIN |  | $30.00 | 2023-12-23 |
 | ✔ | wasabirobby | wasabi_ambulance | https://wasabi-scripts.tebex.io/ | $40.00 | 2023-12-21 |
