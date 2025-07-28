@@ -1,5 +1,6 @@
 # Officer Mills | FiveM Keymaster Resources
-![Discord](https://img.shields.io/discord/1063028749169332284?style=social&logo=Discord&label=Join%20FiveO%20Development%20Discord)
+![Discord](https://img.shields.io/discord/1063028749169332284?style=social&logo=Discord&label=Join%20FiveO%20Development%20Discord&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
+
 > **Key:**
 > ✔  = Transferable/Available 
 ❌ = Non Transferable/Not For Sale
