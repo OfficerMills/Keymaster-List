@@ -1,5 +1,5 @@
 # Officer Mills | FiveM Keymaster Resources
-![Discord](https://img.shields.io/discord/1063028749169332284?style=social&logo=Discord&label=Join%20FiveO%20Development%20Discord&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/officer_mills?style=social&logo=X)
+[![discord members](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1063028749169332284)](https://discord.gg/rc3FXthyzD) ![Discord](https://img.shields.io/discord/1063028749169332284?style=social&logo=Discord&label=Join%20FiveO%20Development%20Discord&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/officer_mills?style=social&logo=X)
 
 
 > **Key:**
