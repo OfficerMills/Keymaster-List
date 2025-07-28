@@ -26,7 +26,7 @@
 | ✔ | TuKeh | tk_drugs |  | $22.50 | 2025-04-28 |
 | ✔ | wasd_dev | wasd-atmrobbery-escrow |  | $17.50 | 2025-04-26 |
 | ✔ | Codex-Factory | cf-shoprobbery |  | $20.00 | 2025-04-24 |
-| ✔ | DeivisMac2 | Core Crafting QB |  | $17.50 | 2025-04-23 |
+| ✔ | DeivisMac2 | Core Crafting QB | [Tebex](https://www.c8re.store/package/4422629)  | $17.50 | 2025-04-23 |
 | ✔ | PlexScripts | PlexScripts Lottery |  | $15.00 | 2025-04-21 |
 | ✔ | CertifiedStag | stag_yoga |  | $10.00 | 2025-04-20 |
 | ✔ | CertifiedStag | stag_grandma |  | $12.50 | 2025-04-20 |
@@ -120,7 +120,7 @@
 | ✔ | quasarstore | Housing [props] |  | $25.00 | 2024-03-20 |
 | ✔ | quasarstore | Housing [main] |  | $65.00 | 2024-03-20 |
 | ✔ | JODKR | dkr_new_mrpd_qb |  | $30.00 | 2024-03-18 |
-| ✔ | DeivisMac2 | Core Crafting ESX |  | $17.50 | 2024-03-14 |
+| ✔ | DeivisMac2 | Core Crafting ESX | [Tebex](https://www.c8re.store/package/4422629) | $17.50 | 2024-03-14 |
 | ✔ | an-services | AN Badge System |  | $12.50 | 2024-03-14 |
 | ✔ | rcore | rcore_spray |  | $30.00 | 2024-03-14 |
 | ✔ | grimzy_mapping | Grove_Compound_V2 |  | $35.00 | 2024-03-13 |
